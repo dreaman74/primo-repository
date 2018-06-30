@@ -4,4 +4,4 @@ Ho creato questo file successivamente, dopo aver creato il Repository, sul repos
 
 # Update Readme.md
 Questa riga invece è stata aggiunta dal Git Locale presente su VS Code
-Questa è una nuova riga, aggiunta successivamente sempre in VS Code
+Questa è una nuova riga, aggiunta successivamente sempre in VS Code.
